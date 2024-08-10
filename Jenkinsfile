@@ -10,7 +10,7 @@ pipeline {
                 }
             }
             steps {
-                sh 'apk add --no-cache coreutils'
+              
                 sh 'npm install'
                 sh 'npm run build'
             }
