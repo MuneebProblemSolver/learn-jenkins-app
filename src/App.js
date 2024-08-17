@@ -12,7 +12,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn Jenkins on Udemy
+          Learn Jenkins by MALIK MUNEEB ASGHAR - The Logic Lounge
         </a>
       </header>
       <p>
