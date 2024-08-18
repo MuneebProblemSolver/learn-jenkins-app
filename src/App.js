@@ -12,7 +12,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn Jenkins by MALIK MUNEEB ASGHAR - The Logic Lounge
+          Learn Jenkins from The Logic Lounge Institute.
         </a>
       </header>
       <p>
